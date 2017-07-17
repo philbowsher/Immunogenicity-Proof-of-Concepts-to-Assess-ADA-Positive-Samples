@@ -1,4 +1,4 @@
-# Intro to Shiny, R Markdown, & HTML Widgets - Application in Drug Development by Phil Bowsher at the 2017 pharmaSUG Workshop on Sunday, May 14th, 2017
+# 5 Immunogenicity Proof of Concepts for Tiered Approach to Assess ADA Positive Samples
 
 ADA three‐tiered testing strategy is deployed here to assess ADA.
 
