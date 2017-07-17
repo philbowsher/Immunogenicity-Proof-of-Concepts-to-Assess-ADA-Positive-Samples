@@ -1,6 +1,6 @@
 # 5 Immunogenicity Proof of Concepts for Tiered Approach to Assess ADA Positive Samples
 
-ADA three‐tiered testing strategy is deployed here to assess ADA.
+ADA three‐tiered testing strategy is deployed here to assess ADA for all 5 POCs.
 
 Sample data are in Sample_Immunogenicity_Data folder. The data are simulated example data sets for deploying the three‐tiered testing strategy. This repository contains 3 data sets in csv format, that are SIMULATED, assuming lognormal distributions. The values in, and structures of the data as well as any potential conclusions or parameter estimates do not correspond to any real experiment. The purpose of the data sets is merely to illustrate possible (or inadequate) data structures and possible application of the various user interfaces and applications for assessing ADA.
 

@@ -1,5 +1,5 @@
 --- 
-title: "Immunogenicity - Tiered Approuch to Assess ADA	Positive Samples"
+title: "Immunogenicity - Tiered Approach to Assess ADA	Positive Samples"
 author: "Phil Bowsher"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -9,7 +9,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: rstudio/bookdown-demo
-description: "This is a POC of using the tiered approuch to assess ADA	positive samples for immunogenicity analysis"
+description: "This is a POC of using the tiered Approach to assess ADA	positive samples for immunogenicity analysis"
 params:
   screening_cut_point: 200
   confirmatory_cut_point: 20
