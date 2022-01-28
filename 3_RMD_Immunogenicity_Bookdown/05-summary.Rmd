@@ -2,7 +2,7 @@
 
 ### R implementation
 
-http://bcn2016.europeanbioanalysisforum.eu/wp-content/uploads/2016/12/D2J4-4-Viswanath-Devanarayan_Abbvie.pdf
+https://www.e-b-f.eu/wp-content/uploads/2018/06/bcn2016-D2J4-4-Viswanath-Devanarayan_Abbvie.pdf
 
 Programmer note: the above code produces results as desired only if
 the input data set has the same structure as the data set created by
