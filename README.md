@@ -1,4 +1,4 @@
-# 5 Immunogenicity Proof of Concepts for Tiered Approach to Assess ADA Positive Samples
+# 6 Immunogenicity Proof of Concepts for Tiered Approach to Assess ADA Positive Samples
 
 ADA three‐tiered testing strategy is deployed here to assess ADA for all 5 POCs.
 
@@ -15,6 +15,10 @@ https://beta.rstudioconnect.com/content/2770/
 Immunogenicity Bookdown Tech Document:
 
 https://beta.rstudioconnect.com/content/2899/
+
+Immunogenicity Scientific and Technical Document:
+
+https://beta.rstudioconnect.com/content/3066a0d5-f403-4fa4-8f90-ba818c4ed5ea
 
 Requires the following packages from CRAN:
 
