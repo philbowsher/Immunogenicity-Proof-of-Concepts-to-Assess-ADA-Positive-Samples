@@ -18,7 +18,7 @@ https://beta.rstudioconnect.com/content/2899/
 
 Immunogenicity Scientific and Technical Document:
 
-https://beta.rstudioconnect.com/content/3066a0d5-f403-4fa4-8f90-ba818c4ed5ea
+https://beta.rstudioconnect.com/content/5200/
 
 Requires the following packages from CRAN:
 
